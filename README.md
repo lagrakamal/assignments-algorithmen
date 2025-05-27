@@ -4,7 +4,7 @@ Dieses Repository enthält alle meine Aufgaben (Assignments), die ich im Rahmen 
 
 ## Inhalt
 
-Die Aufgaben wurden ursprünglich über GitHub Classroom bereitgestellt und lokal bearbeitet. Alle Projekte sind im Ordner `projekte/` zusammengefasst.
+Die Aufgaben wurden ursprünglich über GitHub Classroom bereitgestellt und lokal bearbeitet.
 
 ## Zweck
 
